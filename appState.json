@@ -57,12 +57,208 @@
         "children": [],
         "isRemovable": true,
         "filePath": "Authorizer.js"
+      },
+      "256aff27-206f-4acc-b2a9-3955fc718f74": {
+        "id": "256aff27-206f-4acc-b2a9-3955fc718f74",
+        "parent": null,
+        "name": "newNJSFFile.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "newNJSFFile.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs8",
+          "timeout": 60,
+          "memory": 128,
+          "triggerType": 0
+        },
+        "triggers": [
+          {
+            "resourceName": "http-trigger",
+            "config": {}
+          }
+        ]
+      },
+      "501ad9cb-bff9-488f-a64a-1fb5553b6013": {
+        "id": "501ad9cb-bff9-488f-a64a-1fb5553b6013",
+        "parent": null,
+        "name": "newJSFile.js",
+        "type": "JS_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "newJSFile.js",
+        "cursor": {
+          "lineNumber": 1,
+          "column": 11
+        }
+      },
+      "a113b4b2-4bf9-45f9-a7ab-25c1492b4550": {
+        "id": "a113b4b2-4bf9-45f9-a7ab-25c1492b4550",
+        "parent": null,
+        "name": "PythnFFile.py",
+        "type": "PYTHON_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "PythnFFile.py",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "python37",
+          "timeout": 60,
+          "memory": 128,
+          "triggerType": 0
+        },
+        "triggers": [
+          {
+            "resourceName": "http-trigger",
+            "config": {}
+          }
+        ]
+      },
+      "5f8371ea-a955-4d7c-9b18-8e447fc2b9f8": {
+        "id": "5f8371ea-a955-4d7c-9b18-8e447fc2b9f8",
+        "parent": null,
+        "name": "pythnFile1.py",
+        "type": "PYTHON_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "pythnFile1.py",
+        "cursor": {
+          "lineNumber": 1,
+          "column": 3
+        }
+      },
+      "a19edbfe-abab-4bd9-8e45-473769387546": {
+        "id": "a19edbfe-abab-4bd9-8e45-473769387546",
+        "parent": null,
+        "name": "html1.html",
+        "type": "HTML_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "html1.html"
+      },
+      "daec596e-a651-43a1-a746-9315b0ea68b7": {
+        "id": "daec596e-a651-43a1-a746-9315b0ea68b7",
+        "parent": null,
+        "name": "Css1.css",
+        "type": "CSS_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "Css1.css"
+      },
+      "2a2412a8-b775-4f0e-9e15-5d7f26f15ab7": {
+        "id": "2a2412a8-b775-4f0e-9e15-5d7f26f15ab7",
+        "parent": null,
+        "name": "Scss1.scss",
+        "type": "SCSS_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "Scss1.scss"
+      },
+      "055ffde1-21a6-4995-9162-74bf4cb7b9ef": {
+        "id": "055ffde1-21a6-4995-9162-74bf4cb7b9ef",
+        "parent": null,
+        "name": "jsonfile.json",
+        "type": "JSON_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "jsonfile.json"
+      },
+      "84c3839f-e375-46f3-8da6-5c857f307036": {
+        "id": "84c3839f-e375-46f3-8da6-5c857f307036",
+        "parent": null,
+        "name": "xml file.xml",
+        "type": "XML_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "xml file.xml"
+      },
+      "9462b45c-913e-4860-b550-f3a45514d25b": {
+        "id": "9462b45c-913e-4860-b550-f3a45514d25b",
+        "parent": null,
+        "name": "yaml1.yaml",
+        "type": "YAML_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "yaml1.yaml"
+      },
+      "7b5bce3d-a0dd-4aac-a0ad-3360a1675a86": {
+        "id": "7b5bce3d-a0dd-4aac-a0ad-3360a1675a86",
+        "parent": null,
+        "name": "text1.txt",
+        "type": "TEXT_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "text1.txt"
+      },
+      "d14f7b9a-4f00-406b-80de-e861b183b749": {
+        "id": "d14f7b9a-4f00-406b-80de-e861b183b749",
+        "parent": null,
+        "name": "markdown1.md",
+        "type": "MARKDOWN_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "markdown1.md"
+      },
+      "e6095359-3494-4748-acf4-6d2962bf6a13": {
+        "id": "e6095359-3494-4748-acf4-6d2962bf6a13",
+        "parent": null,
+        "name": "R1.r",
+        "type": "R_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "R1.r"
+      },
+      "6825445a-f1d4-442f-96e4-8891fc98bcf4": {
+        "id": "6825445a-f1d4-442f-96e4-8891fc98bcf4",
+        "parent": null,
+        "name": "directoryName",
+        "type": "DIRECTORY",
+        "isDirectory": true,
+        "children": [
+          "8097d149-e658-4e8c-bdde-cd649fede0c0"
+        ],
+        "isRemovable": true,
+        "filePath": "directoryName"
+      },
+      "8097d149-e658-4e8c-bdde-cd649fede0c0": {
+        "id": "8097d149-e658-4e8c-bdde-cd649fede0c0",
+        "parent": "6825445a-f1d4-442f-96e4-8891fc98bcf4",
+        "name": "sub1 ",
+        "type": "DIRECTORY",
+        "isDirectory": true,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "directoryName/sub1 "
       }
     },
     "openFiles": [
-      "decd5a12-75c3-40b2-ad0b-8c0fcf2fbfae"
+      "84c3839f-e375-46f3-8da6-5c857f307036",
+      "9462b45c-913e-4860-b550-f3a45514d25b",
+      "7b5bce3d-a0dd-4aac-a0ad-3360a1675a86",
+      "d14f7b9a-4f00-406b-80de-e861b183b749",
+      "e6095359-3494-4748-acf4-6d2962bf6a13"
     ],
-    "currentFileId": "decd5a12-75c3-40b2-ad0b-8c0fcf2fbfae",
+    "currentFileId": "e6095359-3494-4748-acf4-6d2962bf6a13",
     "resources": {
       "http-trigger": {
         "name": "http-trigger",
@@ -106,7 +302,7 @@
     "platform": "GCP",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1582705651784
+    "lastSave": 1582709705041
   },
   "VCS_STATE": {
     "provider": "GitHub",

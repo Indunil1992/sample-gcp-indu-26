@@ -2,3 +2,4 @@
 // DO NOT EDIT/DELETE THIS, UNLESS YOU KNOW WHAT YOU ARE DOING.
 
 exports.function = require("./function.js").handler;
+exports.newNJSFFile = require("./newNJSFFile.js").handler;
